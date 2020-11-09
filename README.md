@@ -1,3 +1,2 @@
 ### mass-transit-simulation-system
->design document(design_docs.pdf)  
->source codes
+In additon to the source code, for design document, please refers to design_docs.pdf
